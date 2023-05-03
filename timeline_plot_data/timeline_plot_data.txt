@@ -1,2 +1,8 @@
-{"Name": "CE40-CE20-LIO", "EOS": 1000, "sky loc": 2000, "inclination": 2500, "Masses": 3000, "Mchirp": 10000}
-{"Name": "CE40-CE20-LIO", "EOS": 1000, "sky loc": 2000, "inclination": 2500, "Masses": 3000, "Mchirp": 10000}
+{"Name": "NS-radius", "CE-40": 2, "CE-20": 20, "CE-40 + CE-20": 1, "LVK": 100}
+{"Name": "sky-loc", "CE-40": 2, "CE-20": 20, "CE-40 + CE-20": 1, "LVK": 100}
+{"Name": "early-detection", "CE-40": 2, "CE-20": 20, "CE-40 + CE-20": 1, "LVK": 100}
+{"Name": "H0", "CE-40": 2, "CE-20": 20, "CE-40 + CE-20": 1, "LVK": 100}
+{"Name": "Omega", "CE-40": 2, "CE-20": 20, "CE-40 + CE-20": 15, "LVK": 100}
+{"Name": "GR", "CE-40": 2, "CE-20": 20, "CE-40 + CE-20": 1, "LVK": 100}
+{"Name": "BH-mass-spectrum", "CE-40": 2, "CE-20": 20, "CE-40 + CE-20": 1, "LVK": 100}
+{"Name": "NS-mass-spectrum", "CE-40": 2, "CE-20": 20, "CE-40 + CE-20":1, "LVK": 100}
