@@ -1,0 +1,2 @@
+{"Name": "CE40-CE20-LIO", "EOS": 1000, "sky loc": 2000, "inclination": 2500, "Masses": 3000, "Mchirp": 10000}
+{"Name": "CE40-CE20-LIO", "EOS": 1000, "sky loc": 2000, "inclination": 2500, "Masses": 3000, "Mchirp": 10000}
