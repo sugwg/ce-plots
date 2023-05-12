@@ -1,3 +1,4 @@
 pycbc
 matplotlib
 matplotlib-label-lines
+sympy
